@@ -38,7 +38,7 @@ files = [
 
 [[package]]
 name = "flask"
-version = "2.3.1"
+version = "0.12.2"
 description = "A simple framework for building complex web applications."
 optional = false
 python-versions = ">=3.8"
@@ -71,7 +71,7 @@ files = [
 
 [[package]]
 name = "jinja2"
-version = "3.1.5"
+version = "3.1.2"
 description = "A very fast and expressive template engine."
 optional = false
 python-versions = ">=3.7"
